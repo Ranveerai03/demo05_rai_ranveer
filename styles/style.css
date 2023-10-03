@@ -1,1 +1,7 @@
+.card-img-top {
+    width: fill;
+    height: 24vh;
+    object-fit: contain;    
+    /* object-fit: cover;  might work too  */
+}
 
